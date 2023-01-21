@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="eCatalogModelStoreContainer" CdmEntityContainer="eCatalogEntities1">
+    <EntitySetMapping Name="GrupeStudius">
+      <EntityTypeMapping TypeName="eCatalogModel.GrupeStudiu">
+        <MappingFragment StoreEntitySet="GrupeStudiu">
+          <ScalarProperty Name="IdGrupa" ColumnName="IdGrupa" />
+          <ScalarProperty Name="NumeGrupa" ColumnName="NumeGrupa" />
+          <ScalarProperty Name="An" ColumnName="An" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Materiis">
+      <EntityTypeMapping TypeName="eCatalogModel.Materii">
+        <MappingFragment StoreEntitySet="Materii">
+          <ScalarProperty Name="IdMaterie" ColumnName="IdMaterie" />
+          <ScalarProperty Name="NumeMaterie" ColumnName="NumeMaterie" />
+          <ScalarProperty Name="An" ColumnName="An" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NoteStudentis">
+      <EntityTypeMapping TypeName="eCatalogModel.NoteStudenti">
+        <MappingFragment StoreEntitySet="NoteStudenti">
+          <ScalarProperty Name="IdNota" ColumnName="IdNota" />
+          <ScalarProperty Name="Nota" ColumnName="Nota" />
+          <ScalarProperty Name="IdStudent" ColumnName="IdStudent" />
+          <ScalarProperty Name="IdProfesor" ColumnName="IdProfesor" />
+          <ScalarProperty Name="IdMaterie" ColumnName="IdMaterie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Profesoris">
+      <EntityTypeMapping TypeName="eCatalogModel.Profesori">
+        <MappingFragment StoreEntitySet="Profesori">
+          <ScalarProperty Name="IdProfesor" ColumnName="IdProfesor" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="Prenume" ColumnName="Prenume" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Parola" ColumnName="Parola" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProfesoriMateriis">
+      <EntityTypeMapping TypeName="eCatalogModel.ProfesoriMaterii">
+        <MappingFragment StoreEntitySet="ProfesoriMaterii">
+          <ScalarProperty Name="IdProfesorMaterie" ColumnName="IdProfesorMaterie" />
+          <ScalarProperty Name="IdProfesor" ColumnName="IdProfesor" />
+          <ScalarProperty Name="IdMaterie" ColumnName="IdMaterie" />
+          <ScalarProperty Name="IdGrupa" ColumnName="IdGrupa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Studentis">
+      <EntityTypeMapping TypeName="eCatalogModel.Studenti">
+        <MappingFragment StoreEntitySet="Studenti">
+          <ScalarProperty Name="IdStudent" ColumnName="IdStudent" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="Prenume" ColumnName="Prenume" />
+          <ScalarProperty Name="Grupa" ColumnName="Grupa" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Parola" ColumnName="Parola" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

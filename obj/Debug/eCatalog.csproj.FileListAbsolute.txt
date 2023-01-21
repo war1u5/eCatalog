@@ -1,0 +1,277 @@
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+D:\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+D:\ABD\eCatalog\bin\Debug\eCatalog.exe
+D:\ABD\eCatalog\bin\Debug\eCatalog.pdb
+D:\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+D:\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+D:\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+D:\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+D:\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+D:\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+D:\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+D:\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+D:\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+D:\ABD\eCatalog\obj\Debug\App.g.cs
+D:\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+D:\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+D:\ABD\eCatalog\obj\Debug\App.baml
+D:\ABD\eCatalog\obj\Debug\MainWindow.baml
+D:\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+D:\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+D:\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+D:\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+D:\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+D:\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+D:\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+D:\ABD\eCatalog\obj\Debug\eCatalog.exe
+D:\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\new\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\new\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\new\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\new\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+D:\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+D:\ABD\eCatalog\bin\Debug\EntityFramework.dll
+D:\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.dll
+D:\ABD\eCatalog\bin\Debug\EntityFramework.xml
+D:\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.xml
+D:\ABD\eCatalog\obj\Debug\eCatalog.csproj.CopyComplete
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\EntityFramework.dll
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\EntityFramework.xml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.csproj.CopyComplete
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MainWindowStudent.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MainWindowStudent.baml
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MainWindowProfesor.g.cs
+C:\Users\Marius\Desktop\ProiectABD\ABD\eCatalog\obj\Debug\MainWindowProfesor.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MainWindowProfesor.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MainWindowStudent.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog_Content.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\EntityFramework.dll
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\EntityFramework.xml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MainWindowProfesor.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MainWindowStudent.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\ProiectABD - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.CopyComplete
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\EntityFramework.dll
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\EntityFramework.xml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MainWindowProfesor.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MainWindowStudent.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog_Content.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MainWindowProfesor.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MainWindowStudent.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.csproj.CopyComplete
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - lastVersion\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.dll
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.xml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowProfesor.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowStudent.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog_Content.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowProfesor.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowStudent.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.CopyComplete
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - lastVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\eCatalog.exe.config
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\eCatalog.pdb
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.dll
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.xml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\Theme\ExitButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\Theme\LoginButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\Theme\MinimizeButtonTheme.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowProfesor.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowStudent.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog_Content.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.cache
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog_MarkupCompile.lref
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\App.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowProfesor.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MainWindowStudent.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\ContactView.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\DespreView.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.g.resources
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.Properties.Resources.resources
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.csproj.CopyComplete
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.exe
+C:\Users\Marius\Desktop\ProiectABD - currentVersion - Copy\ABD\eCatalog\obj\Debug\eCatalog.pdb

@@ -1,0 +1,78 @@
+﻿<UserControl x:Class="eCatalog.MVVM.View.DespreView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:eCatalog.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="Transparent">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="700"/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="235"/>
+            <RowDefinition/>
+  
+
+        </Grid.RowDefinitions>
+        <StackPanel>
+        <TextBlock Grid.Row="0" Grid.Column="0"
+                   Margin="30 -8 20 20"
+                   FontSize="22"
+                   Text="Cerinta proiectului"/>
+
+            <Border Grid.Row="0" Grid.Column="0" CornerRadius="15" Margin="20 -10 20 20">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#b3e5cc" Offset="0.0"/>
+                        <GradientStop Color="#40BF80" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Grid>
+                    <TextBlock Margin="20"
+                           TextAlignment="Justify"
+                           Text="Proiectul presupune implementarea unui catalog pentru gestiunea &#x0a;notelor studentilor unei facultati. Studentii sunt impartiti in grupe &#x0a;iar profesorii sunt atribuiti unei/unor anumite materii si pot da note &#x0a;doar studentilor lor. Totodata, aplicatia va putea afisa statisticile &#x0a;notelor pe grupa/facultate (sortare in functie de nota, afisarea notelor &#x0a;unui student anume, etc)"
+                           FontSize="20"/>
+                </Grid>
+
+            </Border>
+        </StackPanel>
+
+        <Border Grid.Row="0" Grid.Column="1" CornerRadius="15" Margin="20 31 20 4">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                    <GradientStop Color="#40BF80" Offset="0.0"/>
+                    <GradientStop Color="#b3e5cc" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Image Source="\Images\nice.png" Margin="10" ToolTip="Logo"/>
+        </Border>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="20">
+            <TextBlock Text="Join us on Github!" FontSize="22" Margin="20 0 0 0"/>
+
+
+            <Border Margin="18 5 450 20" >
+            <ListBox  Background="Transparent" BorderBrush="Transparent">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Rows="1" Columns="2"/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <Image Source="\Images\nice.png" Margin="10" Width="150" ToolTip="Logo"/>
+                    <Image Source="\Images\nice.png" Margin="10" Width="150" ToolTip="Logo"/>
+            </ListBox>
+        </Border>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

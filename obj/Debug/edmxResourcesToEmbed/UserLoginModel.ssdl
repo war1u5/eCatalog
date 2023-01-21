@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="eCatalogModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GrupeStudiu">
+    <Key>
+      <PropertyRef Name="IdGrupa" />
+    </Key>
+    <Property Name="IdGrupa" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NumeGrupa" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="An" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Materii">
+    <Key>
+      <PropertyRef Name="IdMaterie" />
+    </Key>
+    <Property Name="IdMaterie" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NumeMaterie" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="An" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NoteStudenti">
+    <Key>
+      <PropertyRef Name="IdNota" />
+    </Key>
+    <Property Name="IdNota" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nota" Type="float" />
+    <Property Name="IdStudent" Type="int" />
+    <Property Name="IdProfesor" Type="int" />
+    <Property Name="IdMaterie" Type="int" />
+  </EntityType>
+  <EntityType Name="Profesori">
+    <Key>
+      <PropertyRef Name="IdProfesor" />
+    </Key>
+    <Property Name="IdProfesor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nume" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Prenume" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Parola" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProfesoriMaterii">
+    <Key>
+      <PropertyRef Name="IdProfesorMaterie" />
+    </Key>
+    <Property Name="IdProfesorMaterie" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdProfesor" Type="int" />
+    <Property Name="IdMaterie" Type="int" />
+    <Property Name="IdGrupa" Type="int" />
+  </EntityType>
+  <EntityType Name="Studenti">
+    <Key>
+      <PropertyRef Name="IdStudent" />
+    </Key>
+    <Property Name="IdStudent" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nume" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Prenume" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Grupa" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Parola" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__NoteStude__IdMat__5EBF139D">
+    <End Role="Materii" Type="Self.Materii" Multiplicity="0..1" />
+    <End Role="NoteStudenti" Type="Self.NoteStudenti" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Materii">
+        <PropertyRef Name="IdMaterie" />
+      </Principal>
+      <Dependent Role="NoteStudenti">
+        <PropertyRef Name="IdMaterie" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NoteStude__IdPro__5DCAEF64">
+    <End Role="Profesori" Type="Self.Profesori" Multiplicity="0..1" />
+    <End Role="NoteStudenti" Type="Self.NoteStudenti" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profesori">
+        <PropertyRef Name="IdProfesor" />
+      </Principal>
+      <Dependent Role="NoteStudenti">
+        <PropertyRef Name="IdProfesor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NoteStude__IdStu__5CD6CB2B">
+    <End Role="Studenti" Type="Self.Studenti" Multiplicity="0..1" />
+    <End Role="NoteStudenti" Type="Self.NoteStudenti" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Studenti">
+        <PropertyRef Name="IdStudent" />
+      </Principal>
+      <Dependent Role="NoteStudenti">
+        <PropertyRef Name="IdStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Profesori__IdGru__5165187F">
+    <End Role="GrupeStudiu" Type="Self.GrupeStudiu" Multiplicity="0..1" />
+    <End Role="ProfesoriMaterii" Type="Self.ProfesoriMaterii" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GrupeStudiu">
+        <PropertyRef Name="IdGrupa" />
+      </Principal>
+      <Dependent Role="ProfesoriMaterii">
+        <PropertyRef Name="IdGrupa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Profesori__IdMat__5070F446">
+    <End Role="Materii" Type="Self.Materii" Multiplicity="0..1" />
+    <End Role="ProfesoriMaterii" Type="Self.ProfesoriMaterii" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Materii">
+        <PropertyRef Name="IdMaterie" />
+      </Principal>
+      <Dependent Role="ProfesoriMaterii">
+        <PropertyRef Name="IdMaterie" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Profesori__IdPro__4F7CD00D">
+    <End Role="Profesori" Type="Self.Profesori" Multiplicity="0..1" />
+    <End Role="ProfesoriMaterii" Type="Self.ProfesoriMaterii" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profesori">
+        <PropertyRef Name="IdProfesor" />
+      </Principal>
+      <Dependent Role="ProfesoriMaterii">
+        <PropertyRef Name="IdProfesor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="eCatalogModelStoreContainer">
+    <EntitySet Name="GrupeStudiu" EntityType="Self.GrupeStudiu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Materii" EntityType="Self.Materii" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NoteStudenti" EntityType="Self.NoteStudenti" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Profesori" EntityType="Self.Profesori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProfesoriMaterii" EntityType="Self.ProfesoriMaterii" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Studenti" EntityType="Self.Studenti" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__NoteStude__IdMat__5EBF139D" Association="Self.FK__NoteStude__IdMat__5EBF139D">
+      <End Role="Materii" EntitySet="Materii" />
+      <End Role="NoteStudenti" EntitySet="NoteStudenti" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NoteStude__IdPro__5DCAEF64" Association="Self.FK__NoteStude__IdPro__5DCAEF64">
+      <End Role="Profesori" EntitySet="Profesori" />
+      <End Role="NoteStudenti" EntitySet="NoteStudenti" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NoteStude__IdStu__5CD6CB2B" Association="Self.FK__NoteStude__IdStu__5CD6CB2B">
+      <End Role="Studenti" EntitySet="Studenti" />
+      <End Role="NoteStudenti" EntitySet="NoteStudenti" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Profesori__IdGru__5165187F" Association="Self.FK__Profesori__IdGru__5165187F">
+      <End Role="GrupeStudiu" EntitySet="GrupeStudiu" />
+      <End Role="ProfesoriMaterii" EntitySet="ProfesoriMaterii" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Profesori__IdMat__5070F446" Association="Self.FK__Profesori__IdMat__5070F446">
+      <End Role="Materii" EntitySet="Materii" />
+      <End Role="ProfesoriMaterii" EntitySet="ProfesoriMaterii" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Profesori__IdPro__4F7CD00D" Association="Self.FK__Profesori__IdPro__4F7CD00D">
+      <End Role="Profesori" EntitySet="Profesori" />
+      <End Role="ProfesoriMaterii" EntitySet="ProfesoriMaterii" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
