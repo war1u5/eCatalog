@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aeb3a1326259480487a7848b5764bb83" Name="Diagram1">
+        <EntityTypeShape EntityType="eCatalogModel.GrupeStudiu" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="eCatalogModel.Materii" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eCatalogModel.NoteStudenti" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eCatalogModel.Profesori" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eCatalogModel.ProfesoriMaterii" Width="1.5" PointX="6" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eCatalogModel.Studenti" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="eCatalogModel.FK__Profesori__IdGru__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="eCatalogModel.FK__NoteStude__IdMat__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="eCatalogModel.FK__Profesori__IdMat__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="eCatalogModel.FK__NoteStude__IdPro__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="eCatalogModel.FK__NoteStude__IdStu__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="eCatalogModel.FK__Profesori__IdPro__4F7CD00D" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
